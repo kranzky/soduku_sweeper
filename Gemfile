@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "fxruby"
+gem 'fxruby', '~> 1.6.35'
